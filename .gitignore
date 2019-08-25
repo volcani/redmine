@@ -34,9 +34,10 @@
 /tmp/sockets/*
 /tmp/test/*
 /tmp/thumbnails/*
+/vendor/bundle
 /vendor/cache
 *.rbc
 
 /.bundle
 
-/vendor/bundle
+
